@@ -1,0 +1,142 @@
+📂 .backup
+┃ ┣ 📂 sql
+📂 .cache
+┃ ┣ 📂 brain
+┃ ┣ 📂 config
+┃ ┣ 📂 img
+┃ ┣ 📂 memory
+📂 .temp
+┃ ┣ 📂 img
+📂 backend
+┃ ┣ 📂 commands
+┃ ┣ 📂 controller
+┃ ┣ 📂 guard
+┃ ┣ 📂 model
+┃ ┣ 📂 routes
+┃ ┃ ┣ 📂 api
+┃ ┃ ┃ ┣ 📂 usuarios
+┃ ┃ ┣ 📂 auth
+┃ ┃ ┃ ┣ 📂 login
+┃ ┃ ┃ ┣ 📂 logout
+┃ ┃ ┃ ┣ 📂 recover
+┃ ┃ ┣ 📂 control
+┃ ┃ ┃ ┣ 📂 administracion
+┃ ┃ ┃ ┣ 📂 mantenimiento
+┃ ┃ ┃ ┣ 📂 movimientos
+┃ ┃ ┃ ┣ 📂 reportes
+┃ ┃ ┃ ┣ 📂 servidor
+┃ ┃ ┣ 📂 src
+┃ ┣ 📂 service
+┃ ┣ 📂 sql
+┃ ┣ 📂 utils
+┃ ┃ ┣ 📂 error
+┃ ┃ ┣ 📂 function
+┃ ┃ ┣ 📂 template
+📂 frontend
+┃ ┣ 📂 layout
+┃ ┣ 📂 view
+┃ ┃ ┣ 📂 auth
+┃ ┃ ┣ 📂 control
+┃ ┃ ┃ ┣ 📂 administracion
+┃ ┃ ┃ ┣ 📂 mantenimiento
+┃ ┃ ┃ ┣ 📂 movimientos
+┃ ┃ ┃ ┣ 📂 reportes
+┃ ┃ ┃ ┣ 📂 servidor
+┃ ┃ ┃ ┣ 📂 theme
+┃ ┃ ┣ 📂 error
+📂 log
+📂 src
+┃ ┣ 📂 private
+┃ ┃ ┣ 📂 document
+┃ ┃ ┃ ┣ 📂 alarm
+┃ ┃ ┃ ┣ 📂 console
+┃ ┃ ┃ ┣ 📂 dropper
+┃ ┃ ┃ ┣ 📂 reconectSocket
+┃ ┃ ┣ 📂 layout
+┃ ┃ ┃ ┣ 📂 css
+┃ ┃ ┃ ┣ 📂 js
+┃ ┃ ┣ 📂 lib
+┃ ┃ ┃ ┣ 📂 brain
+┃ ┃ ┃ ┣ 📂 calendar
+┃ ┃ ┃ ┣ 📂 catalogue
+┃ ┃ ┃ ┣ 📂 chart
+┃ ┃ ┃ ┃ ┣ 📂 4.4.1
+┃ ┃ ┃ ┣ 📂 code
+┃ ┃ ┃ ┣ 📂 danfos
+┃ ┃ ┃ ┣ 📂 dataTables
+┃ ┃ ┃ ┣ 📂 Event
+┃ ┃ ┃ ┣ 📂 file
+┃ ┃ ┃ ┣ 📂 formatTime
+┃ ┃ ┃ ┣ 📂 formError
+┃ ┃ ┃ ┣ 📂 imagen
+┃ ┃ ┃ ┣ 📂 input
+┃ ┃ ┃ ┣ 📂 inputRange
+┃ ┃ ┃ ┣ 📂 query
+┃ ┃ ┃ ┣ 📂 selector
+┃ ┃ ┃ ┣ 📂 Tables
+┃ ┃ ┃ ┣ 📂 witgetTable
+┃ ┃ ┃ ┣ 📂 xlsx
+┃ ┃ ┣ 📂 routes
+┃ ┃ ┃ ┣ 📂 administracion
+┃ ┃ ┃ ┃ ┣ 📂 acceso
+┃ ┃ ┃ ┃ ┣ 📂 bot
+┃ ┃ ┃ ┃ ┣ 📂 dash
+┃ ┃ ┃ ┃ ┣ 📂 tipos
+┃ ┃ ┃ ┃ ┣ 📂 usuarios
+┃ ┃ ┃ ┣ 📂 mantenimiento
+┃ ┃ ┃ ┃ ┣ 📂 categorias
+┃ ┃ ┃ ┃ ┣ 📂 clientes
+┃ ┃ ┃ ┃ ┣ 📂 dash
+┃ ┃ ┃ ┃ ┣ 📂 inventario
+┃ ┃ ┃ ┃ ┣ 📂 proveedor
+┃ ┃ ┃ ┣ 📂 movimientos
+┃ ┃ ┃ ┃ ┣ 📂 compras
+┃ ┃ ┃ ┃ ┣ 📂 dash
+┃ ┃ ┃ ┃ ┣ 📂 ventas
+┃ ┃ ┃ ┣ 📂 perfil
+┃ ┃ ┃ ┣ 📂 productos
+┃ ┃ ┃ ┣ 📂 reportes
+┃ ┃ ┃ ┃ ┣ 📂 asistencia
+┃ ┃ ┃ ┃ ┣ 📂 compras
+┃ ┃ ┃ ┃ ┣ 📂 dash
+┃ ┃ ┃ ┃ ┣ 📂 registros
+┃ ┃ ┃ ┃ ┣ 📂 ventas
+┃ ┃ ┃ ┃ ┣ 📂 yapes
+┃ ┃ ┃ ┣ 📂 servidor
+┃ ┃ ┃ ┃ ┣ 📂 cerebro
+┃ ┃ ┃ ┃ ┣ 📂 cpu
+┃ ┃ ┃ ┃ ┣ 📂 terminal
+┃ ┣ 📂 public
+┃ ┃ ┣ 📂 auth
+┃ ┃ ┃ ┣ 📂 layout
+┃ ┃ ┃ ┃ ┣ 📂 css
+┃ ┃ ┃ ┃ ┣ 📂 lib
+┃ ┃ ┃ ┃ ┃ ┣ 📂 burbujas
+┃ ┃ ┃ ┣ 📂 login
+┃ ┃ ┃ ┣ 📂 recovery
+┃ ┃ ┣ 📂 css
+┃ ┃ ┣ 📂 default
+┃ ┃ ┃ ┣ 📂 css
+┃ ┃ ┣ 📂 error
+┃ ┃ ┃ ┣ 📂 css
+┃ ┃ ┣ 📂 favicon
+┃ ┃ ┣ 📂 lib
+┃ ┃ ┃ ┣ 📂 alarm
+┃ ┃ ┃ ┣ 📂 boxicons
+┃ ┃ ┃ ┃ ┣ 📂 css
+┃ ┃ ┃ ┃ ┣ 📂 dist
+┃ ┃ ┃ ┃ ┣ 📂 fonts
+┃ ┃ ┃ ┣ 📂 jquery
+┃ ┃ ┣ 📂 svg
+┃ ┣ 📂 resource
+┃ ┃ ┣ 📂 default
+┃ ┃ ┃ ┣ 📂 normal
+┃ ┃ ┃ ┣ 📂 small
+┃ ┃ ┣ 📂 productos
+┃ ┃ ┃ ┣ 📂 normal
+┃ ┃ ┃ ┣ 📂 small
+┃ ┃ ┣ 📂 usuarios
+┃ ┃ ┃ ┣ 📂 normal
+┃ ┃ ┃ ┣ 📂 small
+📂 trash
+┃ ┣ 📂 calendar
